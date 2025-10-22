@@ -3,7 +3,7 @@
 📊 Passionate about turning blockchain data into actionable insights  
 ⛓️ Exploring data analysis and visualization  
 
-🔒 veHEMI Marketplace to Trade locked HEMI - [vehemi.com](https://burnbeam.com/) ([Repo](https://github.com/0x0sub/vehemi-marketplace))
+🔒 veHEMI Marketplace to Trade locked HEMI - [vehemi.com](https://vehemi.com) ([Repo](https://github.com/0x0sub/vehemi-marketplace))
 
 🔥 Creator of Beam Burn Tracker - [burnbeam.com](https://burnbeam.com/)  
 
